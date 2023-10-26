@@ -4,7 +4,8 @@ Presentations CRob has given over the years
 
 ## Infosec Presentations
 - [AppDev & SecArch - building a better future together](https://github.com/SecurityCRob/presentations/blob/main/Appdev%20and%20SecArch%20Building%20a%20better%20tomorrow-final.pdf) - A presentation on how developers and security folks can work better together
-- [Circles and Boxes](https://github.com/SecurityCRob/presentations/blob/main/Derbycon-2015-Circles%20%26%20Boxes.pdf) - A presentation about Security Architecture as a disipline from Derbycon 2015 [Video](https://www.youtube.com/watch?v=dcrWE2x_R_E)
+- [AppSec Panel of Power - PSL Edition](https://github.com/SecurityCRob/presentations/blob/main/AppSec%20Panel%20of%20Power%20-%20PSL%20edition%20(1).pdf)  - A panel we did with Chris Bush, Scott Geotte, and Dave Russo at the 2023 CLE-ISS
+- - [Circles and Boxes](https://github.com/SecurityCRob/presentations/blob/main/Derbycon-2015-Circles%20%26%20Boxes.pdf) - A presentation about Security Architecture as a disipline from Derbycon 2015 [Video](https://www.youtube.com/watch?v=dcrWE2x_R_E)
 - [Cracks in the Foundation](https://github.com/SecurityCRob/presentations/blob/main/CracksintheFoundation.pdf) - A presentation about observed patterns many infosec programs follow and suggestions on how to avoid them at a CLE-ISS
 - [Culture Club](https://github.com/SecurityCRob/presentations/blob/main/CLE-ISS-20xx-Culture%20Club.pdf) - A presentation about how to cultivate a positive culture on an infosec team and with your stakeholders from a spring CLE-ISS
 - [Having a Career in InfoSec](https://github.com/SecurityCRob/presentations/blob/main/isc2-oct-fall%20it%20summitmeeting.pdf) - Presentation we gave for newcomers interested in having a career in information security and the CISSP certification at a CLE-ISS
@@ -13,6 +14,7 @@ Presentations CRob has given over the years
 - [Measuring and Reporting Risk](https://github.com/SecurityCRob/presentations/blob/main/Measuring%20and%20Reporting%20Risk2.pdf) - A presentation where CyberFace helps us understand different ways to measure, manage, and communicate risk to stakeholders at the 2021 CLE-ISS
 - [Mock Incident - Oh Pastebin, what have you done to me?](https://github.com/SecurityCRob/presentations/blob/main/isc2-oct-fall%20it%20summit-mock%20incident.pdf) - Mock incident run at a past CLE-ISS conference
 - [Mock Incident - all your networks are belong to us](https://github.com/SecurityCRob/presentations/blob/main/isc2-oct14-fall%20it%20summit-mock%20incident-final.pdf) - Another mock incident we ran at CLE-ISS 2014
+- [Security, Compliance, and Quantum Entanglement](https://github.com/SecurityCRob/presentations/blob/main/Security%2C%20Compliance%20and%20Quantum%20Entanglement.pdf) - a 2023 CLE-ISS keynote I did with Kevin Baker about how Secuity and Compliance programs are "entangled" together
 - [Security Jeopardy - Application Security](https://github.com/SecurityCRob/presentations/blob/main/Application_security_jeopardy2.pdf) A game we ran at a conference around application security concepts at a CLE-ISS
 - [Security Jeopardy - CIS Controls](https://github.com/SecurityCRob/presentations/blob/main/CIS_CCC_jeopardy1.pdf) - A game we ran at a conference around the CIS Controls
 - [CLE-ISS-2018 - Choose Your Own Disaster: The Curious Case of the Cloudy Conundrum](https://github.com/SecurityCRob/presentations/blob/main/CLE-ISS2018%20Choose_Your_Disaster.pdf) - A Mock Disaster Dave Russo and I ran about Cloud-based companies having a bad day at the CLE-ISS 2018
