@@ -29,6 +29,7 @@ Presentations CRob has given over the years
 - [Starting and Maturing a PSIRT](https://github.com/SecurityCRob/presentations/blob/main/FIRST-TC-2017-StartingaPSIRT.pdf) - A presentation talking about key services a PSIRT should provide their stakeholders and how to improve the maturity of those capabilities
 
 ## OSS Presentations
+- [Best Practices make Perfect!](https://github.com/SecurityCRob/presentations/blob/main/Best%20Practices%20Make%20Perfect!.pdf) - Presentation Marta and I gave about the OpenSSF's BEST Working group - OSS-EU 2022
 - [Crossing the Streams](https://github.com/SecurityCRob/presentations/blob/main/VulCon2024-%20Crossing%20the%20Streams.pdf) - a presentation [Madison](https://github.com/taladrane) and I gave that explains how downstream can better understand upstream oss - VulnCon 2024 [video]()
 - [Developing a secure open future](https://github.com/SecurityCRob/presentations/blob/main/OSS-NA%202024-%20Developing%20a%20secure%20open%20future.pdf) - a presentation I gave to provide actionable advice for project maintainers to improve the security of their projects - OSS-NA 2024 [Video](https://www.youtube.com/watch?v=HncGsN3bQc8&list=PLbzoR-pLrL6oPN75kFWWkQy5gGGMvW0fz&index=25&pp=iAQB)
 - [Free Fish Aren't Free](https://github.com/SecurityCRob/presentations/blob/main/Free%20Fish%20Aren't%20Free.pdf) - A presentation about how open source software projects work and how steps downstream consumers of those projects need to do to ensure they are secure from several conferences in 2021
