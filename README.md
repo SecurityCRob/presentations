@@ -19,6 +19,8 @@ Presentations CRob has given over the years
 - [Security Jeopardy - CIS Controls](https://github.com/SecurityCRob/presentations/blob/main/CIS_CCC_jeopardy1.pdf) - A game we ran at a conference around the CIS Controls
 - [CLE-ISS-2018 - Choose Your Own Disaster: The Curious Case of the Cloudy Conundrum](https://github.com/SecurityCRob/presentations/blob/main/CLE-ISS2018%20Choose_Your_Disaster.pdf) - A Mock Disaster Dave Russo and I ran about Cloud-based companies having a bad day at the CLE-ISS 2018
 - [CLE-ISS-2019 - Choose Your Own Disaster: Zippy Spacedirt and the Spiders from the Web](https://github.com/SecurityCRob/presentations/blob/main/CLE-ISS2019-Choose_Your_Disaster.pdf)
+- [Why you need to care about the CRA](https://github.com/SecurityCRob/presentations/blob/main/CMH%20OWASP%20Chapter-%20Why%20you%20need%20to%20care%20about%20the%20CRA.pdf) - a 2025 CMH OWASP Chapter meeting presentation I gave explaining the CRA to non-OSS, non-PSIRT folks.
+
 
 ## PSIRT Presentations
 - [A Day in the Life of a TPC CVE](https://github.com/SecurityCRob/presentations/blob/main/Day%20in%20the%20Life%20of%20a%20TPC%20Vuln2.pdf) - A presentation on how Third Party Component CVEs should be managed by a PSIRT
