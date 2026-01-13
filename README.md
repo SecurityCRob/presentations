@@ -32,6 +32,7 @@ Presentations CRob has given over the years
 - [Starting and Maturing a PSIRT](https://github.com/SecurityCRob/presentations/blob/main/FIRST-TC-2017-StartingaPSIRT.pdf) - A presentation talking about key services a PSIRT should provide their stakeholders and how to improve the maturity of those capabilities
 
 ## OSS Presentations
+- [All your Base](https://github.com/SecurityCRob/presentations/blob/main/OSS-NA%20Baseline%20Keynote.pdf) - A keynote that Eddie Knight and I gave at OSS-NA 2025 about the ORBIT working group and the OSPS Security Baseline
 - [Back to BASE-ics!](https://github.com/SecurityCRob/presentations/blob/main/GH%20-%20Back%20to%20BASE-ics%20(2).pdf) - A Talk prepare for the GitHub Security Fund cohort Oct 2025
 - [Best Practices make Perfect!](https://github.com/SecurityCRob/presentations/blob/main/Best%20Practices%20Make%20Perfect!.pdf) - Presentation Marta and I gave about the OpenSSF's BEST Working group - OSS-EU 2022
 - [Cherry Blossom and Compliance](https://github.com/SecurityCRob/presentations/blob/main/Cherry%20Blossom%20and%20Compliance%20-%20OSSJ2025.pdf) - A Talk that Mike Bursell and I gave at OSS-JP 2025 in Tokyo.  [video](https://www.youtube.com/watch?v=qJIbio4oLr0)
